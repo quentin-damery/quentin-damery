@@ -1,4 +1,5 @@
-![Uploading profil_GitHub.jpg…]()
+![profil_GitHub](https://github.com/user-attachments/assets/23dd0fa9-23c6-4b2f-8d0d-89b024e87237)
+
 
 # 👋 Bienvenue sur mon GitHub, moi c'est Quentin DAMERY ! 👋
 
