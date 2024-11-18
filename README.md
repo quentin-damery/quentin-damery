@@ -5,9 +5,9 @@ Je suis un étudiant en cybersécurité, passionné par tout ce qui touche à la
 
 ### 💡 Ce que vous trouverez ici 🔍 :
 Sur mon GitHub, vous trouverez divers projets et scripts que j'ai créés pour approfondir mes connaissances et partager ce que j'apprends. Voici quelques exemples :
-- 📂 Scripts Python : Pour l'automatisation des tâches liées à la sécurité.
-- 🌐 Projets réseau : Mise en place de machines virtuelles pour tester des scénarios de sécurité.
-- 📚 Outils CTF : Développement de scripts et outils pour résoudre des challenges Capture The Flag.
+- 📂 Scripts Python.
+- 📚 OS & Virtualisation.
+- 🌐 Scripts HTML/CSS.
 
 ### 🚀 Compétences 💻 :
 - Langages : Python, Bash & PowerShell, HTML/CSS
